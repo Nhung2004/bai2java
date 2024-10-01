@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body{
+	background-image:url("img/bghaui.jpg");
+	background-size:cover;
+}
+
+.view{
+	height:100vh;
+}
+
+.formview{
+	
+	width:400px;
+	height:450px;
+    border-style: solid;   /* Đặt kiểu đường viền là solid (đường viền liên tục) */
+    border-width: 5px;     /* Đặt độ dày của đường viền là 5px */
+    border-color: yellow;  /* Đặt màu của đường viền là vàng */
+    border-radius:10px;
+    box-shadow:5px 5px 5px rgb(0, 255, 255);
+    margin:100px;
+}
+
+.anh1{
+	height:70px;
+	width:70px;
+	
+}
+
+.khauhieu{
+	bordre-style:solid;
+}
+
+.quenmk{
+	color: green;
+}
+
